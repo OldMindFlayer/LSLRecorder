@@ -1,0 +1,2 @@
+# LSLRecorder
+record lsl streams
